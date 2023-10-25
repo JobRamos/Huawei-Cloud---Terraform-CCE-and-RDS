@@ -2,9 +2,9 @@ variable "vpc_name" {
   default = "vpc-basic"
 }
 
-variable "ak" {  default = "21HBCS1EDST2N78MMUG2" }
-variable "sk" {  default = "LumiHeMceHiwFZ2ccDFHYF2bHS0YDEvP8heDpbBS" }
-variable "swr_login_command" {  default = "docker login -u la-north-2@1YYZ91JDGM00F6R5IFFE -p 865cf5c8862bdd1390fb9ea25e76ec3237870386324a4378327de27647edbc81 swr.la-north-2.myhuaweicloud.com" }
+variable "ak" {  default = "Coloca tu AK aqui" }
+variable "sk" {  default = "Coloca tu SK aqui" }
+variable "swr_login_command" {  default = "Coloca tu Login Command aqui" }
 
 variable "region" {  default = "la-north-2" } #Mexico city2
 
